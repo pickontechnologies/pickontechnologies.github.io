@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Shop Manager and Billing App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h1 { color: #1a73e8; }
+        h2 { color: #202124; margin-top: 25px; }
+        p, li { font-size: 15px; }
+        footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #ddd; font-size: 13px; color: #666; }
+    </style>
+</head>
+<body>
+
+    <h1>Terms of Service</h1>
+    <p><strong>App Name:</strong> Shop Manager and Billing App</p>
+    <p><strong>Developer:</strong> Pickon Technologies</p>
+    <p><strong>Effective Date:</strong> November 10, 2026</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By downloading, installing, or using <strong>Shop Manager and Billing App</strong> ("the App"), provided by <strong>Pickon Technologies</strong>, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please discontinue use of the App immediately.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>Shop Manager and Billing App is a comprehensive retail management platform designed to help shop owners and businesses handle digital invoicing, billing generation, stock and inventory tracking, and sales reporting. The App utilizes secure cloud infrastructure to store and synchronize your business data safely online across authorized devices.</p>
+
+    <h2>3. Cloud Data Security & User Accounts</h2>
+    <p>Because the App stores business data, customer details, and inventory ledgers via online cloud synchronization:</p>
+    <ul>
+        <li>You are responsible for maintaining the confidentiality of your account credentials and login details.</li>
+        <li>While Pickon Technologies employs standard administrative and technical safeguards to protect your data online, no electronic transmission or cloud storage system is 100% secure.</li>
+        <li>You retain full ownership of all inventory records, transaction histories, and business data inputted into the platform.</li>
+    </ul>
+
+    <h2>4. Intellectual Property</h2>
+    <p>All source code, UI/UX designs, trademarks, graphics, and documentation associated with Shop Manager and Billing App are the exclusive intellectual property of Pickon Technologies.</p>
+
+    <h2>5. Acceptable Use</h2>
+    <p>You agree not to use the App for any fraudulent, unauthorized, or illegal activities, including generating false commercial tax invoices, manipulating financial ledgers, or infringing upon third-party rights.</p>
+
+    <h2>6. Monetization & Advertisements</h2>
+    <p>The App may include third-party advertisements or optional premium subscription tiers to support ongoing software updates and server maintenance. Ad networks may collect non-personally identifiable device information in accordance with their respective privacy policies.</p>
+
+    <h2>7. Disclaimer of Warranties</h2>
+    <p>The App is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind, either express or implied. Pickon Technologies disclaims all warranties regarding uninterrupted cloud connectivity, server availability, or absolute data recovery in unforeseen catastrophic server events.</p>
+
+    <h2>8. Limitation of Liability</h2>
+    <p>To the maximum extent permitted by applicable law, Pickon Technologies shall not be held liable for any direct, indirect, incidental, or consequential damages—including business interruption, lost profits, or inventory discrepancies—arising from the use or inability to use the App.</p>
+
+    <h2>9. Contact Information</h2>
+    <p>If you have any questions or concerns regarding these Terms of Service, please contact us at:</p>
+    <p>Pickon Technologies Contact: <a href="https://sites.google.com/view/pickon-softwares/contact-us">Contact Us Here</a><br>
+    Website: <a href="https://pickontechnologies.github.io">https://pickontechnologies.github.io</a></p>
+
+    <footer>
+        &copy; 2026 Pickon Technologies. All rights reserved.
+    </footer>
+
+</body>
+</html>
